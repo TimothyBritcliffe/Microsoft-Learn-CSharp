@@ -1,5 +1,7 @@
-This repo contains all of the projects that are in the Microsoft Learn link. The Certification in partnership with freeCodeCamp only covers the "Learn C#" section shown via the Microsoft URL, however I have included the additional projects from the 'Web apps', 'Backend APIs and Microservices', and 'Mobile Desktop Applications'.
+This repository contains the projects from the Microsoft Learn "Learn C#" section which is an introduction to the C# programming language and an introduction to developing CLI based applications. 
+This introduction to C# falls under the .NET product training as well as the 'Beginner' section in the 'Developer' career path. 
 
+This section is also tied to a freeCodeCamp certification with I have completed alongside the Microsoft Learn content.
 
 
 
