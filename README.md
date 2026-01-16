@@ -1,5 +1,5 @@
-This repository contains the projects from the Microsoft Learn "Learn C#" section which is an introduction to the C# programming language and an introduction to developing CLI based applications. 
-This introduction to C# falls under the .NET product training as well as the 'Beginner' section in the 'Developer' career path. 
+This repository contains the projects from the Microsoft Learn "Get started with C#" program which contains six learning paths with a focus on developing console applications using C#.
+This introduction falls under the .NET product training as well as the 'Beginner' section in the 'Developer' career path under the section name "Learn C#".
 
 This section is also tied to a freeCodeCamp certification with I have completed alongside the Microsoft Learn content.
 
